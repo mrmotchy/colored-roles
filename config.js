@@ -1,4 +1,4 @@
 {
-    "discord_token": "ODQwNjAxMjQzNzgwNTEzODAy.YJak6g.TwF68iLvPsb-qfNAN0JzUljJbvI",
+    "discord_token": "",
     "randomize_delay": 3
 }
