@@ -1,0 +1,22 @@
+{
+    "token": "ODQwNjAxMjQzNzgwNTEzODAy.YJak6g.Q8WsGTdtPylBMdleHKOS_a6Q8BI",
+    "prefix": "!",
+    "rainbowdelay": 1500,
+    "rainbowcommand": "go",
+    "rainbowstop": "s",
+    "rainbowrole": [
+        "#9400D3",
+        "#4B0082",
+        "#0000FF",
+        "#00FF00",
+        "#FFFF00",
+        "#FF7F00",
+        "#FF0000"
+    ],
+    "messageresponse": {
+        "missingperm": "I need permission 'MANAGE_ROLES' to execute this action.",
+        "success": "rainbow startet",
+        "rainbowstop": "rainbow stopped!",
+        "rolenotfound": "The requested role you typed was not found"
+    }
+}
